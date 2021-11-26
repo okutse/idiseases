@@ -91,7 +91,7 @@ ui <- dashboardPage(
                 )
               )
             ) #,
-      
+      #add the code for the readme file here, and update the About menu tab to have details and pictures of the model employed in the simulation
       
       #tabItem(tabName = "readme",
       #        includeMarkdown("README.md")
